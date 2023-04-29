@@ -1,6 +1,6 @@
 Hi there, I'm Christintus Odhiambo Otieno 👋
 
-I'm a React and Node.js developer with experience in Firebase, MySQL, and a bit of PHP and Java. I'm also passionate about UI design and enjoy working on projects using Figma.
+I'm a passionate and dedicated full-stack developer with expertise in React and Node.js. I have experience building web applications with Firebase, MySQL, PHP, and Java. I'm also skilled in UI design using Figma, and I enjoy working on projects that require attention to detail and creativity.
 🛠️ Skills
 
     Front-end: React, HTML, CSS, JavaScript, Figma
