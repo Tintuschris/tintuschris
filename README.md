@@ -9,7 +9,7 @@ I'm a passionate and dedicated full-stack developer with expertise in React and 
 🌱 Currently Learning
 
     GraphQL
-    Next.js
+    Nextjs
     TypeScript
 
 📫 Get in Touch
